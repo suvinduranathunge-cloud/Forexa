@@ -17,3 +17,15 @@ strong, b {
   padding: 10px;
   border-radius: 6px;
 }
+
+body, p, li, h1, h2, h3, h4, h5, h6 {
+  color: #fff !important;   /* force white text */
+}
+
+b, strong {
+  color: #32d74b !important; /* green accent for bold */
+}
+
+hr {
+  border-color: #444 !important; /* visible divider on dark bg */
+}
